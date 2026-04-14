@@ -1,6 +1,6 @@
 {
-  "name": "adp-manifest",
-  "version": "0.1.0",
+  "name": "@ai-manifests/adp-manifest",
+  "version": "0.3.0",
   "description": "TypeScript reference implementation of the Agent Deliberation Protocol (ADP)",
   "author": "David H. Friedel Jr. — MarketAlly",
   "type": "module",

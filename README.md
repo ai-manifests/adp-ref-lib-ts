@@ -11,7 +11,7 @@ Zero runtime dependencies. Pure TypeScript, ESM.
 ## Install
 
 ```bash
-npm install adp-manifest
+npm install @ai-manifests/adp-manifest
 ```
 
 ## Quick example
@@ -25,7 +25,7 @@ import {
   StakeMagnitude,
   type Proposal,
   type CalibrationScore,
-} from 'adp-manifest';
+} from '@ai-manifests/adp-manifest';
 
 const proposal: Proposal = {
   agentId: 'did:adp:test-runner-v1',
