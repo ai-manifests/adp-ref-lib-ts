@@ -2,7 +2,7 @@
 
 A TypeScript reference implementation of the **Agent Deliberation Protocol (ADP)** specification — the consensus protocol that multi-agent systems use to reach calibrated, falsifiable decisions together. ADP defines proposals, weights, tallies, falsification, termination, and reversibility tiers.
 
-This library is one of several reference implementations ([Python](https://git.marketally.com/ai-manifests/adp-ref-lib-py)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
+This library is one of several reference implementations ([Python](https://github.com/ai-manifests/adp-ref-lib-py)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
 
 Zero runtime dependencies. Pure TypeScript, ESM.
 
