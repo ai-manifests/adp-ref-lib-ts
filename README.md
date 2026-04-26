@@ -1,5 +1,11 @@
 # adp-manifest
 
+[![npm](https://img.shields.io/npm/v/@ai-manifests/adp-manifest.svg?label=npm)](https://www.npmjs.com/package/@ai-manifests/adp-manifest)
+[![Downloads](https://img.shields.io/npm/dm/@ai-manifests/adp-manifest.svg)](https://www.npmjs.com/package/@ai-manifests/adp-manifest)
+[![Node](https://img.shields.io/badge/node-20%2B-blue.svg)](https://nodejs.org/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Spec](https://img.shields.io/badge/spec-adp--manifest.dev-informational)](https://adp-manifest.dev)
+
 A TypeScript reference implementation of the **Agent Deliberation Protocol (ADP)** specification — the consensus protocol that multi-agent systems use to reach calibrated, falsifiable decisions together. ADP defines proposals, weights, tallies, falsification, termination, and reversibility tiers.
 
 This library is one of several reference implementations ([Python](https://github.com/ai-manifests/adp-ref-lib-py)) of the same spec. The spec itself is at [adp-manifest.dev](https://adp-manifest.dev) and is the source of truth; this library implements what the spec says.
